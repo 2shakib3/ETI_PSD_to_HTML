@@ -1,0 +1,16 @@
+git init
+git add .
+git commit -m "first initialize"
+git remote add origin remote repository URL
+git push orgin master
+
+
+
+git pull repository URL
+git checkout -b dev_setu
+git add . 
+git commit -m "message"
+git push origin dev_setu
+
+if problem 
+git push origin master -f
